@@ -6,11 +6,11 @@ CHATGPT-3 - CHATBOT - HOW TO USE
 
  - Third, open the terminal and run the following commands:
 
-    pip install -r requirements.txt
+       pip install -r requirements.txt
 
  - Finally, on the same terminal run the following commands and start using the chatbox:
 
-    python main.py
+       python main.py
 
    It will print out instruction.
 
